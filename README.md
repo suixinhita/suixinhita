@@ -1,16 +1,24 @@
-## Hi there 👋
+## About Me
+-  I’m currently working on **multi-agent reinforcement learning**.
+-  I’m currently learning **multi-agent DRL**
+-  How to reach me: suixinhita@126.com
 
-<!--
-**suixinhita/suixinhita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Skills
+- **Languages**: C++，Python, matlab
+- **Frameworks**: Pytorch, TensorFlow
+- **Tools**: Git, Pycharm, VS Code
 
-Here are some ideas to get you started:
+## My Projects
+- [Project 1](Link to Project 1) - Short description of the project.
+- [Project 2](Link to Project 2) - Short description of the project.
+- [Project 3](Link to Project 3) - Short description of the project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## My Blog
+Check out my latest blog posts on [My Blog](https://suixinhita.github.io/)!
+![Blog](https://img.shields.io/badge/My_Blog-YourBlog-blue?style=for-the-badge&logo=wordpress)
