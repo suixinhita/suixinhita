@@ -14,11 +14,10 @@
 - [Project 3](Link to Project 3) - Short description of the project.
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=suixinhita&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suixinhita&layout=compact&theme=radical)
 
 ## My Blog
 Check out my latest blog posts on [My Blog](https://suixinhita.github.io/)!
-![Blog](https://img.shields.io/badge/My_Blog-YourBlog-blue?style=for-the-badge&logo=wordpress)
