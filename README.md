@@ -8,11 +8,6 @@
 - **Frameworks**: Pytorch, TensorFlow
 - **Tools**: Git, Pycharm, VS Code
 
-## My Projects
-- [Project 1](Link to Project 1) - Short description of the project.
-- [Project 2](Link to Project 2) - Short description of the project.
-- [Project 3](Link to Project 3) - Short description of the project.
-
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=suixinhita&show_icons=true&theme=radical)
 
